@@ -1,0 +1,10 @@
+{
+  "name": "utility-token-foundry",
+  "version": "1.0.0",
+  "description": "ERC-20 Token Repository",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
